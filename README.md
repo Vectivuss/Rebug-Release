@@ -11,10 +11,9 @@ Rebug is a cheat full of features from other menus that has been made into one b
 * SNTE = Detour
 
 ## Installation
-* Place 'external' inside docs folder
-* Follow instructions to gameowner.exe
-* In-game type in console 'qrextern rebug.lua'
-* Insert to open/close
+* Place 'rebug.lua' inside 'garrysmod/lua' folder
+* In-Game in console type 'lua_openscript_cl rebug.lua
+* Press insert to open/close menu
 
 ## SNTE Detour
 ```lua
