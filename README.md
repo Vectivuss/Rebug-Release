@@ -13,6 +13,12 @@ Make sure to credit me :)
 * CAC = Undetected
 * SNTE = Detour
 
+## Installation
+* Place 'external' inside docs folder
+* Follow instructions to gameowner.exe
+* In-game type in console 'qrextern rebug.lua'
+* Insert to open/close
+
 ## SNTE Detour
 ```lua
 local g = vgui[_.e]("DTextEntry", d)
