@@ -7,8 +7,7 @@ Rebug is a cheat full of features from other menus that has been made into one b
 ![Foo](https://i.imgur.com/rlxFY4G.png)
 
 * Easy to setup
-* Bypassses included
-* CAC = Undetected
+* ClientSide bypass
 * SNTE = Detour
 
 ## Installation
