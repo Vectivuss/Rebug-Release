@@ -1420,14 +1420,6 @@ function a.load()
 	end]]
     end)
 
-    a[_.l]("Double Or Nothing 100%", d, function()
-        surface[_._]"buttons/button18.wav"
-		
-		Derma_StringRequest("Set Persentage chance", "1-100%", "", function(c)
-			e[_.m]"BDON_CONFIG.doubleChance = "..c)
-		end)
-	end)
-
     a[_.l]("Ban All Players", d, function()
         surface[_._]"buttons/button18.wav"
 
@@ -2194,4 +2186,4 @@ function a.load()
     end
 end
 
-a.voidz(not not 1)
+a.voidz(not not 1) // Credits <CodeVoid>
