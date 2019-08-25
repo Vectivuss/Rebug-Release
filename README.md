@@ -4,8 +4,6 @@
 
 Rebug is a cheat full of features from other menus that has been made into one big one. It has a few features from enigma and a few custom ones. The cheat is mainly being released due to having public features. The bhop that rebug has is one that was made in 2017 but is still good to this day.
 
-Make sure to credit me :)
-
 ![Foo](https://i.imgur.com/rlxFY4G.png)
 
 * Easy to setup
@@ -46,3 +44,6 @@ g.OnEnter = function(c)
     b = c:GetValue()
 end
 ```
+![Foo](https://i.imgur.com/yVyd89x.png)
+
+Make sure to credit me :)
