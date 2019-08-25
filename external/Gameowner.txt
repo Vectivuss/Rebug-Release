@@ -1,7 +1,0 @@
-hl2
-external.dll
-//First Line     = Name of Executable.
-//Second Line    = Name of Dll File.
----------------------------------------------------
- Injector made by Fredaikis @ Unknowncheats.me :D
----------------------------------------------------
