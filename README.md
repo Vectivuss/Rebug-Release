@@ -17,29 +17,13 @@ Rebug is a cheat full of features from other menus that has been made into one b
 
 ## SNTE Detour
 ```lua
-local g = vgui[_.e]("DTextEntry", d)
-    g:SetPos(10, 8)
-    g:SetSize(685, 35)
-    g:SetTextColor(Color(255, 255, 255, 255))
-    g:SetFont"Trebuchet18"
+Plist5.OnEnter = function(self)
 
-g[_.f] = function(c, d, g)
-    surface[_.g](Color(24, 24, 24))
-    surface[_.h](0, 0, d, g)
-    surface[_.g](21, 21, 21)
-    surface[_.i](i)
-    surface[_.g](m)
-    surface[_.i](j)
-    surface[_.g](m)
-    surface[_.g](35, 35, 35, 255)
-    surface[_.j](0, 0, d, g)
-        c:DrawTextEntryText(Color(255, 255, 255), Color(20, 20, 150), Color(100, 100, 100))
-end
+	surface.PlaySound("buttons/button18.wav")
 
-g.OnEnter = function(c)
-    surface[_._]"buttons/button18.wav"
-    e.Notify("Targeting: '" .. g:GetValue() .. "'")
-    b = c:GetValue()
+	noob.Notify("Targeting: '" .. Plist5:GetValue() .. "'")
+
+	channel = self:GetValue()
 end
 ```
 ![Foo](https://i.imgur.com/yVyd89x.png)
