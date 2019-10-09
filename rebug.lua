@@ -2243,7 +2243,7 @@ end
 rebug.voidz(true)
 
 //-------------------------------------------------------
-// Coded By Void Rebug Release Soruce
+// Coded By Void Rebug Release Source
 // https://github.com/Void09/Rebug-Release
 // Note to the person using this, removing this
 // text is in violation of the licence you agreed
