@@ -1,4 +1,4 @@
-# RebugCheats
+# Rebug Script Release
 
 ![Foo](https://i.imgur.com/f0ApXbe.png)
 
