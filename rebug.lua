@@ -2249,6 +2249,6 @@ rebug.voidz(true)
 // text is in violation of the licence you agreed
 // to by downloading.
 // Copyright © Void 2019
-// Licenced under © MIT licence here
+// Licenced under © GNU licence here
 // https://github.com/Void09/Rebug-Release/blob/master/LICENSE
 //-------------------------------------------------------
